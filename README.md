@@ -2,7 +2,8 @@
 Windy Grid World Solution(using SARSA_Q-learning)
 Windy Grid World (Sutton & Barto, pg. 130,131)
 Consider the game depicted in the following diagram
-![image](https://github.com/Lomai9/Windy-Grid-World/assets/77353623/fe72e58a-b1d1-4175-b6dc-b0ab7cd06b75)You are to implement several algorithms to solve this problem:
+![image](https://github.com/Lomai9/Windy-Grid-World/assets/77353623/fe72e58a-b1d1-4175-b6dc-b0ab7cd06b75)
+You are to implement several algorithms to solve this problem:
 1. Sarsa
 2. Q-learning
 Compare all solutions in terms of the optimal policies and episodes necessary for convergence. Select 
