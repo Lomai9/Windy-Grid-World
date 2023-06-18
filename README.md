@@ -2,7 +2,9 @@
 Windy Grid World Solution(using SARSA_Q-learning)
 Windy Grid World (Sutton & Barto, pg. 130,131)
 Consider the game depicted in the following diagram
+
 ![image](https://github.com/Lomai9/Windy-Grid-World/assets/77353623/fe72e58a-b1d1-4175-b6dc-b0ab7cd06b75)
+
 You are to implement several algorithms to solve this problem:
 1. Sarsa
 2. Q-learning
@@ -18,4 +20,5 @@ the goal, and one-third of the time you move to the goal. YOU SHOULD ONLY USE TH
 
 Mathematically, when the wind is defined by w, the location of the agent in y after the execution of the 
 action without stochastic wind will be y = a(s) + w. Then, the stochastic output y— will be:
+
 ![3](https://github.com/Lomai9/Windy-Grid-World/assets/77353623/2d78b98a-6c5f-4159-9c75-8b7f92cf7317)
